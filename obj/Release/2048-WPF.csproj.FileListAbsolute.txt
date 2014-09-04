@@ -1,0 +1,13 @@
+G:\code\2048-WPF\2048-WPF\bin\Release\2048-WPF.exe.config
+G:\code\2048-WPF\2048-WPF\bin\Release\2048-WPF.exe
+G:\code\2048-WPF\2048-WPF\bin\Release\2048-WPF.pdb
+G:\code\2048-WPF\2048-WPF\obj\Release\MainWindow.baml
+G:\code\2048-WPF\2048-WPF\obj\Release\MainWindow.g.cs
+G:\code\2048-WPF\2048-WPF\obj\Release\App.g.cs
+G:\code\2048-WPF\2048-WPF\obj\Release\2048-WPF_MarkupCompile.cache
+G:\code\2048-WPF\2048-WPF\obj\Release\2048-WPF.g.resources
+G:\code\2048-WPF\2048-WPF\obj\Release\_2048_WPF.Properties.Resources.resources
+G:\code\2048-WPF\2048-WPF\obj\Release\2048-WPF.csproj.GenerateResource.Cache
+G:\code\2048-WPF\2048-WPF\obj\Release\2048-WPF.exe
+G:\code\2048-WPF\2048-WPF\obj\Release\2048-WPF.pdb
+G:\code\2048-WPF\2048-WPF\obj\Release\2048-WPF.csprojResolveAssemblyReference.cache
